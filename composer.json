@@ -1,0 +1,17 @@
+{
+    "name": "hellm/bangu-bank",
+    "description": "BanguBank is a simple banking application with features for both 'Admin' and 'Customer' users. The HTML template starter pack is made for Laravel Career Path by Interactive Cares students. Backend is implemented by Mir.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hellm\\BanguBank\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mir-37",
+            "email": "mirmutasim37@gmail.com"
+        }
+    ],
+    "require": {}
+}
