@@ -1,17 +1,20 @@
 {
-    "name": "hellm/xenon-bank",
-    "type": "project",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Hellm\\XenonBank\\": "app/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Mir-37",
-            "email": "mirmutasim37@gmail.com"
-        }
-    ],
-    "require": {}
+	"name": "hellm/xenon-bank",
+	"type": "project",
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"Hellm\\XenonBank\\": "app/"
+		},
+		"files": [
+			"app/helpers.php"
+		]
+	},
+	"authors": [
+		{
+			"name": "Mir-37",
+			"email": "mirmutasim37@gmail.com"
+		}
+	],
+	"require": {}
 }
