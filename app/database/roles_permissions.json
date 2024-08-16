@@ -1,0 +1,19 @@
+[
+	{
+		"id": 1,
+		"role_id": 1,
+		"permissions": [
+			"view-all-transactions",
+			"delete-customer",
+			"create-customer",
+			"update-customer",
+			"search-transactions",
+			"view-all-customers"
+		]
+	},
+	{
+		"id": 2,
+		"role_id": 2,
+		"permissions": ["search-transactions", "view-transactions"]
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"name": "Mir Mutasim",
+		"email": "mirmutasim37@gmail.com",
+		"password": "$2y$10$vYA9Xt6H6QFRmiB4AlqLkuszbLm39XiddjHgH8x4adtWayFGdDLQO",
+		"image": null,
+		"created_at": "15-08-2024"
+	},
+	{
+		"id": 2,
+		"name": "Kevin Hut",
+		"email": "kvht345@gmail.com",
+		"password": "$2y$10$vYA9Xt6H6QFRmiB4AlqLkuszbLm39XiddjHgH8x4adtWayFGdDLQO",
+		"image": null,
+		"created_at": "15-08-2024"
+	}
+]
